@@ -60,7 +60,7 @@ div {
 }
 
 .container {
-  width: 700px;   /* This sets the width */
+  width: 800px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
 }
 
